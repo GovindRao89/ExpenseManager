@@ -1,6 +1,6 @@
 # ExpenseManager
 
-Expected technology stack/structure/methodology :
+Guidelines followed for the development :
  
 - Maven project with webapp archetype
 - Followed TDD 
